@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img width="80%" src="https://media.tenor.com/4RHvCS5ixRgAAAAC/team-fortress2-engineer-tf2.gif">
+  <img width="80%" src="https://i.pinimg.com/originals/b5/0d/b9/b50db902b48fc7fdd7befddda9d58ed6.gif">
+  
   ## Não é porque seu código quebrou que você deixou de ser um programador
 
   <div align='center'>
@@ -9,7 +10,7 @@
   ![JavaScript](https://img.shields.io/badge/js-%23323330?style=for-the-badge&logo=javascript&logoColor=white)
 
  
-  ![VSCode](https://img.shields.io/badge/VSCode-%23323330?style=for-the-badge&logo=vscode&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-%23323330?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
   </div>
 
